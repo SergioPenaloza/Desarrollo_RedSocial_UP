@@ -1,0 +1,1 @@
+{"user_name": "Sergio Alejandro", "password": "12345", "messages": [[1650139492.3037655, "prueba alejo"], [1650657150.7990003, "Sergio\ud83e\udd70\ud83d\ude0b\ud83e\udd70"], [1650667691.166801, "sergio\ud83d\ude00"]], "email": "sergio.alejandro72@gmail.com", "friends": ["mayra.mu\u00f1eton72@gmail.com", "sebastian@gmail.com", "sergio.isidro72@gmail.com"]}
